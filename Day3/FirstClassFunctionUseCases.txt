@@ -1,0 +1,5 @@
+The use cases of First class functions are as follows :
+
+1 : Passing behaviour instead of variables in function arguments, enabling true functional programming.
+2 : Writing quick startup/shutdown functionality which doesn't need to have a name.
+3 : Writing non-reusable code, which is only intended for use in a particular class.
